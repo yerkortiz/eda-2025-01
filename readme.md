@@ -7,7 +7,9 @@ Tanto como notas, snippets y problemas resueltos.
 
 | Clase | Tema | Objetivos |
 |-------|------|-------------|
-| 01 | [Introducción a Estructuras de Datos y Algoritmos](./clase-01) | Conceptos básicos y fundamentos |
+| Clase 01 | [Introducción a Estructuras de Datos y Algoritmos](clase-01) | Conceptos básicos y fundamentos |
+| Clase 02 | [Algoritmos aritméticos](clase-02) | Profundizar en la idea de algoritmo |
+| Clase 03 | [Sistema Posicional](clase-03) | Sistema posicional y algoritmos de cambio de base |
 
 ## Estructura del Repositorio
 

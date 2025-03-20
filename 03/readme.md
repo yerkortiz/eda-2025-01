@@ -74,15 +74,15 @@ Output:
 Algoritmo:
 1. Instanciar un String B, inicializado con el valor N%2. B=(N%2).
 2. Mientras N/2 sea mayor a 0, repetir lo siguiente:
-  a. Concatenar a la izquierda de B el valor N % 2. B=(N%2)+B.
-  b. Decrementar N a la mitad. N = N/2.
+  a. Decrementar N a la mitad. N = N/2.
+  b. Concatenar a la izquierda de B el valor N % 2. B=(N%2)+B.
 3. Retornar B.
 ```
 
 La implementación la pueden ver en [DecimalToBinary.java](src/DecimalToBinary.java)
 
 
-## Problemas
+## Ejercicios
 1. Diseñe un algoritmo que transforme un String binario B a un número entero en sistema decimal.
 2. Diseñe un algoritmo que transforme un entero N a sistema octal.
 3. Diseñe un algoritmo que transforme un entero N a sistema hexadecimal.
